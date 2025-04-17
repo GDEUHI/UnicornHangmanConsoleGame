@@ -1,0 +1,14 @@
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.AssemblyInfoInputs.cache
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.AssemblyInfo.cs
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.csproj.CoreCompileInputs.cache
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/bin/Debug/net9.0/HangmanUnicorn
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/bin/Debug/net9.0/HangmanUnicorn.deps.json
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/bin/Debug/net9.0/HangmanUnicorn.runtimeconfig.json
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/bin/Debug/net9.0/HangmanUnicorn.dll
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/bin/Debug/net9.0/HangmanUnicorn.pdb
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.dll
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/refint/HangmanUnicorn.dll
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.pdb
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/HangmanUnicorn.genruntimeconfig.cache
+/Users/gd/Desktop/HangmanUnicorn/HangmanUnicorn/obj/Debug/net9.0/ref/HangmanUnicorn.dll
